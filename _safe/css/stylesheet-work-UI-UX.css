@@ -1,0 +1,106 @@
+nav {
+    background-color:whitesmoke;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-items a {
+font-size: 10px;
+color: purple;
+/* font-family: sans-serif; */
+font-weight: Bold;
+margin: 30px;
+text-align: center
+}
+
+h1 {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.skillSection {
+   display: flex;
+   justify-content: center;
+   text-align: center;
+}
+
+.skillSection2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+ }
+
+.skillset {
+    margin: 40px;
+}
+
+.skillset2 {
+    margin: 60px;
+}
+
+.workSection {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+
+.caseStudycopy {
+    margin-left: 20px;
+}
+
+.button {
+    background-color: whitesmoke;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    margin: 8px 2px;
+    cursor: pointer;
+}
+
+.download-copy {
+    font-size: 13px;   
+    color:purple;
+    /* font-family: sans-serif; */
+    font-weight: bold;
+    text-align: right;
+}
+
+.download-icon {
+    text-align: right;
+}
+
+.download-resume-bar {
+    background-color: whitesmoke;
+    padding: 15px;
+    margin-top: 5%;
+}
+
+footer {
+    background-color: purple;
+    padding: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.footer-copy {
+    font-size: 10px;   
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    }
+
+.footer-items a {
+text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+
+}
